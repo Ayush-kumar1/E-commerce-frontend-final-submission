@@ -1,0 +1,22 @@
+.card_for_cart {
+    background-color: white;
+    width: 40vw;
+    margin: 10px;
+    padding: 1.5rem;
+    border: 1px solid antiquewhite;
+    border-radius: 4px;
+}
+
+.cart_poster {
+    width: 20vw;
+    /* height: 2rem; */
+}
+
+.cart_display_page {
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+    display: flex;
+    justify-content: left;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
