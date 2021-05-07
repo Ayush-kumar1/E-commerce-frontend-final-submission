@@ -7,7 +7,7 @@ const SingleContent = ({id,image,name,price,wishlist,quantity,stock,delivery,Com
 
    const {setFav, dispatch,}=useCart();
     return (
-        <div className="card">
+        <div className="media_card">
              
              <img className="poster" src={image} alt=""/>
              <h2>{name}</h2>

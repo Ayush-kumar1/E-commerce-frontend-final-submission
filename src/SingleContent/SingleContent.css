@@ -22,24 +22,6 @@
     --navbar: #7952B3;
 }
 
-.card {
-    display: flex;
-    flex-direction: column;
-    width: 200px;
-    padding: 5px;
-    margin: 5px 0;
-    /* background-color: #282c34; */
-    background-color: white;
-    border-radius: 10px;
-    position: relative;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.card:hover {
-    background-color: #282c34;
-    color: white;
-}
-
 .poster {
     height: 250px;
 }
