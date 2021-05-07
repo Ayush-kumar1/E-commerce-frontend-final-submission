@@ -9,7 +9,7 @@ import {Link} from "react-router-dom"
 
 const Header = () => {
     return (
-        <div className="header">
+        <div className="nav">
             <div className="logo_position"> 
 
             <Link to="/">
