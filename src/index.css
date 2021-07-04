@@ -1,38 +1,13 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-:root {
-    --white: #ffffff;
-    --black: #000000;
-    --gray: #808080;
-    --background_white: #ddd;
-    --antiquewhite: #faebd7;
-    --error: #aa1a13;
-    --warning: #b4710c;
-    --info: #653088;
-    --sucess: #0fd884;
-    --default_button: #D5D5D5;
-    --primary_button: #ff0044;
-    --primary_button_hover: #ffff14;
-    --sucess_btn: #1ad61a;
-    --error_btn: #e41111;
-    --secondary_btn: #1665a7;
-    --info_btn: #2581cc;
-    --input_shadow: #34bb51;
-    --rating: #ffe400;
-    --navbar: #7952B3;
-}
-
 body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
