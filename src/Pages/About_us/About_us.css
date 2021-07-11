@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.home_body-1 {
+    padding-top: 4rem;
+    display: flex;
+}
+
+.body-1 {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+.body_left-1 {
+    flex: 0.5;
+}
+
+.body_right-1 {
+    flex: 0.5;
+}
+
+.branding-1 {
+    padding-left: 12rem;
+    padding-top: 2rem;
+}
+
+.branding-content-1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 3.5rem;
+}
+
+.home_img-1 {
+    width: 80%;
+}
+
+.about_us_img {
+    width: 80%;
+    padding-top: 4rem;
+}
+
+.product_button-1 {
+    margin-left: 12rem;
+    margin-top: 4rem;
+    width: 15rem;
+    padding: 1rem;
+    border-radius: 3rem;
+    background-color: black;
+    color: white;
+    border: 1px solid white
+}
